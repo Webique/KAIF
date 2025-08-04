@@ -18,7 +18,7 @@
   
   .who-right {
     flex: 1;
-    background-color: rgba(178,127,106,0.05);
+    background-color: rgba(203, 96, 21, 0.05);
     display: flex;
     flex-direction: column;
     justify-content: center;
